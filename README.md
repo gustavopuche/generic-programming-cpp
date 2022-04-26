@@ -1,2 +1,2 @@
 # generic-programming-cpp
-Exercies on generic programmint techniques.
+Exercies on generic programming techniques.
